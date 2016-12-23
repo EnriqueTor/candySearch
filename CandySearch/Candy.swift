@@ -29,5 +29,5 @@ class Candy {
   init(category: String, name: String) {
     self.category = category
     self.name = name
-  }
+    }
 }
